@@ -10,6 +10,6 @@
   * [Tokenization](usdutcr/tokenization.md)
   * [Governance](usdutcr/governance.md)
   * [Distribution](usdutcr/distribution.md)
-  * [External Exchanges](usdutcr/external-exchanges.md)
+  * [Exchanging](usdutcr/exchanging.md)
   * [Chain Contracts](usdutcr/chain-contracts.md)
   * [Utilization](usdutcr/utilization.md)
