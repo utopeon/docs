@@ -18,4 +18,31 @@
 
 ## 🚀 Getting Started
 
-* [Page 1](getting-started/page-1.md)
+* [Installation](getting-started/installation.md)
+* [Authentication](getting-started/authentication.md)
+* [Account Management](getting-started/account-management.md)
+* [Troubleshooting](getting-started/troubleshooting.md)
+* [Advanced](getting-started/advanced.md)
+
+## 🌐 Blockchain
+
+* [Page 2](blockchain/page-2.md)
+
+## 🎮 Gameplay
+
+* [Challenges](gameplay/challenges.md)
+* [Competitions](gameplay/competitions.md)
+* [Tournaments](gameplay/tournaments.md)
+* [Performance](gameplay/performance.md)
+
+## ✨ Features
+
+* [Page 4](features/page-4.md)
+
+## 📂 Public Assets
+
+* [Brandkit](public-assets/brandkit.md)
+
+## 📚 Changelog
+
+* [Page 6](changelog/page-6.md)
