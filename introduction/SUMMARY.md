@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Motivation](README.md)
+* [History](README.md)
+* [Motivation](motivation.md)
 * [Pricing](pricing.md)
 * [Common Questions](common-questions.md)
 * [Differentiation](differentiation/README.md)
