@@ -12,7 +12,7 @@ TLDR; Video gaming and esports are massive industries growing exponentially, yet
 
 As of 2023, there are more than 3 billion active video gamers worldwide. That means more than 40% of the human population play video games for a period of time throughout their life.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="Bar chart number of gamers in billions from 2021 to 2040"><figcaption><p>Projections of Video Gamers Worldwide from 2021 to 2040</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="Bar chart number of gamers in billions from 2021 to 2040"><figcaption><p>Projections of Video Gamers Worldwide from 2021 to 2040.</p></figcaption></figure>
 
 The rate of industry growth is exponential - at an astonishing average rate of 5.6% year-over-year.
 
@@ -34,13 +34,13 @@ Esports tournaments and leagues are typically organized by game developers, espo
 
 Esports has grown in popularity over the years and has become a professional sport with a large following. It is a rapidly growing industry, with millions of fans and spectators around the world.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Projections for eSports Audience from 2020 to 2040</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Projections for eSports Audience from 2020 to 2040.</p></figcaption></figure>
 
 ![esports audience growth from 474 million in 2021 to 577 million in 2024](<../../.gitbook/assets/image (8).png>)
 
 With this explosive popularity, the industry has also created opportunities for players, coaches, analysts, and other professionals to make careers in esports. But also others have selfishly benefited exponentially greater from this growth, more than teams, players, or individual contributors that made it possible.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Projections for eSports Revenue from 2020 to 2040</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Projections for eSports Revenue from 2020 to 2040.</p></figcaption></figure>
 
 The gaming community, esports revenue, and viewership continue to grow as monetization and innovation are slow, making it difficult for any esports platform to be considered a major league.&#x20;
 
