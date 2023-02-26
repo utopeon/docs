@@ -36,8 +36,6 @@ Esports has grown in popularity over the years and has become a professional spo
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Projections for eSports Audience from 2020 to 2040.</p></figcaption></figure>
 
-![esports audience growth from 474 million in 2021 to 577 million in 2024](<../../.gitbook/assets/image (8).png>)
-
 With this explosive popularity, the industry has also created opportunities for players, coaches, analysts, and other professionals to make careers in esports. But also others have selfishly benefited exponentially greater from this growth, more than teams, players, or individual contributors that made it possible.
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Projections for eSports Revenue from 2020 to 2040.</p></figcaption></figure>
