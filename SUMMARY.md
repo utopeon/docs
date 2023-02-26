@@ -2,8 +2,9 @@
 
 ## 👋 Introduction
 
-* [Motivation](README.md)
-* [Mission](introduction/mission.md)
+* [Welcome](README.md)
+  * [Motivation](introduction/welcome/motivation.md)
+  * [Mission](introduction/welcome/mission.md)
 * [Pricing](introduction/pricing.md)
 * [Common Questions](introduction/common-questions.md)
 * [Differentiation](introduction/differentiation/README.md)
