@@ -6,7 +6,6 @@
 * [Mission](introduction/mission.md)
 * [Pricing](introduction/pricing.md)
 * [Common Questions](introduction/common-questions.md)
-* [History](<README (1).md>)
 * [Differentiation](introduction/differentiation/README.md)
   * [Feature Comparison](introduction/differentiation/feature-comparison.md)
 * [$UTCR](introduction/usdutcr/README.md)
