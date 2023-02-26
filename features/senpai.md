@@ -2,5 +2,5 @@
 description: Coming soon
 ---
 
-# Competitions
+# Senpai
 

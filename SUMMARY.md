@@ -2,10 +2,11 @@
 
 ## 👋 Introduction
 
-* [History](README.md)
-* [Motivation](introduction/motivation.md)
+* [Motivation](README.md)
+* [Mission](introduction/mission.md)
 * [Pricing](introduction/pricing.md)
 * [Common Questions](introduction/common-questions.md)
+* [History](<README (1).md>)
 * [Differentiation](introduction/differentiation/README.md)
   * [Feature Comparison](introduction/differentiation/feature-comparison.md)
 * [$UTCR](introduction/usdutcr/README.md)
@@ -26,18 +27,19 @@
 
 ## 🌐 Blockchain
 
-* [Page 2](blockchain/page-2.md)
+* [Market](blockchain/market.md)
 
 ## 🎮 Gameplay
 
 * [Challenges](gameplay/challenges.md)
 * [Competitions](gameplay/competitions.md)
 * [Tournaments](gameplay/tournaments.md)
-* [Performance](gameplay/performance.md)
+* [Software](gameplay/software.md)
+* [Data](gameplay/data.md)
 
 ## ✨ Features
 
-* [Page 4](features/page-4.md)
+* [Senpai](features/senpai.md)
 
 ## 📂 Public Assets
 
@@ -45,4 +47,4 @@
 
 ## 📚 Changelog
 
-* [Page 6](changelog/page-6.md)
+* [v0](changelog/v0.md)
