@@ -16,6 +16,7 @@
   * [Distribution](introduction/usdutcr/distribution.md)
   * [Utilization](introduction/usdutcr/utilization.md)
   * [Exchanging](introduction/usdutcr/exchanging.md)
+* [Contact Us](introduction/contact-us.md)
 
 ## 🚀 Getting Started
 
@@ -25,10 +26,6 @@
 * [Troubleshooting](getting-started/troubleshooting.md)
 * [Advanced](getting-started/advanced.md)
 
-## 🌐 Blockchain
-
-* [Market](blockchain/market.md)
-
 ## 🎮 Gameplay
 
 * [Challenges](gameplay/challenges.md)
@@ -36,6 +33,13 @@
 * [Tournaments](gameplay/tournaments.md)
 * [Software](gameplay/software.md)
 * [Data](gameplay/data.md)
+
+## 🌐 Blockchain
+
+* [Wallets](blockchain/wallets.md)
+* [Ledgers](blockchain/ledgers.md)
+* [Decentralized Web Nodes (DWNs)](blockchain/decentralized-web-nodes-dwns.md)
+* [Game Finance (GameFi)](blockchain/game-finance-gamefi.md)
 
 ## ✨ Features
 
