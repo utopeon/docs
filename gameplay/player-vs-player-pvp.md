@@ -2,5 +2,5 @@
 description: Coming soon.
 ---
 
-# Buying and Selling
+# Player vs Player (PvP)
 

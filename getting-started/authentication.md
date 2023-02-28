@@ -1,5 +1,5 @@
 ---
-description: Decentralized Identifiers (DID) and Web3 Access
+description: Anonymity, Privacy and Passwordless Security.
 ---
 
 # Authentication

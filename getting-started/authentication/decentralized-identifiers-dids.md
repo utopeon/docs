@@ -2,5 +2,5 @@
 description: Coming soon.
 ---
 
-# Buying and Selling
+# Decentralized Identifiers (DIDs)
 

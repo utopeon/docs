@@ -1,2 +1,6 @@
-# Cheating
+---
+description: Coming soon.
+---
+
+# Hacking/Cheating
 
