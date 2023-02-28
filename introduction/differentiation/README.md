@@ -1,5 +1,5 @@
 ---
-description: We acknowledge there are other platforms that are similar in some aspects.
+description: How Utopeon compares to similar industry leaders.
 ---
 
 # Differentiation
