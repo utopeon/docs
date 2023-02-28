@@ -42,7 +42,7 @@
 * [Challenges](gameplay/challenges.md)
 * [Competitions](gameplay/competitions.md)
 * [Tournaments](gameplay/tournaments.md)
-* [Cheating](gameplay/cheating.md)
+* [Hacking/Cheating](gameplay/hacking-cheating.md)
 * [Software](gameplay/software.md)
 * [Data](gameplay/data.md)
 
