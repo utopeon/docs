@@ -40,7 +40,7 @@ Long-term Utopeon will explore greater adoption of decentralized blockchain tech
 
 A video game economy is an online social economy that exists on the internet, sometimes exclusive to a game. It is a virtual system of trade and commerce where players can buy, sell, and trade virtual goods, such as items, resources, and currency, using in-game currency or real money.&#x20;
 
-The economy is often designed to mimic real-world economies, with supply and demand, market fluctuations, and inflation. For [play-to-earn](welcome/mission.md#\_2e) economies, gamers earn currency by simply playing, competing in events, selling items, or general participation. They can then use this currency to purchase items from other players or from in-game vendors.&#x20;
+The economy is often designed to mimic real-world economies, with supply and demand, market fluctuations, and inflation. For [play-to-earn](mission.md#\_2e) economies, gamers earn currency by simply playing, competing in events, selling items, or general participation. They can then use this currency to purchase items from other players or from in-game vendors.&#x20;
 
 The value of the virtual currency is determined by supply and demand. For example, if the coins are in high demand, their price will increase. Conversely, if there is an oversupply and underutilization of the currency, its price will decrease.&#x20;
 

@@ -16,11 +16,11 @@ This social model involves rewarding or providing compensation to individuals le
 
 ## Home of the Full-time Gamer™
 
-Utopeon is a decentralized P2E (**P**lay-**T**o-**E**arn) video gaming economy powered by a blockchain token known as [`Utopeon Credits ($UTCR)`](../usdutcr/). A decentralized video gaming economy is an ecosystem where gamers, developers, and investors can interact with each other without intermediaries. This means more money is moving into the pockets of those who deserve it most.
+Utopeon is a decentralized P2E (**P**lay-**T**o-**E**arn) video gaming economy powered by a blockchain token known as [`Utopeon Credits ($UTCR)`](usdutcr/). A decentralized video gaming economy is an ecosystem where gamers, developers, and investors can interact with each other without intermediaries. This means more money is moving into the pockets of those who deserve it most.
 
 We invest in full-time gamers by monetizing gameplay. We believe that through proper utilization, such monetization will prove to be profitable for everyone, balancing the industry. Our short-term investment in amateur players will lead to greater returns when they become professionals.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>A successful framework for video gaming monetization.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>A successful framework for video gaming monetization.</p></figcaption></figure>
 
 Utopeon is a unique combination of play-to-earn and in some ways, pay-to-win, optimizing for social and utility value. This will increase the entertainment threshold and work towards closing the industry gaps.
 
