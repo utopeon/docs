@@ -71,7 +71,3 @@
 ## 📂 Public Assets
 
 * [Brandkit](public-assets/brandkit.md)
-
-## 📚 Changelog
-
-* [v0](changelog/v0.md)
