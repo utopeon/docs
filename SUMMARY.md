@@ -4,8 +4,8 @@
 
 ## 👋 Introduction
 
-* [Motivation](introduction/motivation.md)
-* [Mission](introduction/mission.md)
+* [Motivation](introduction/welcome/motivation.md)
+* [Mission](introduction/welcome/mission.md)
 * [Pricing](introduction/pricing.md)
 * [Common Questions](introduction/common-questions.md)
 * [Differentiation](introduction/differentiation/README.md)
@@ -21,12 +21,15 @@
 
 ## 🚀 Getting Started
 
-* [Installation](getting-started/installation.md)
-* [Authentication](getting-started/authentication/README.md)
+* [Installation](getting-started/installation/README.md)
+  * [Windows](getting-started/installation/windows.md)
+  * [iOS](getting-started/installation/ios.md)
+  * [Android](getting-started/installation/android.md)
+* [Authentication](getting-started/authentication.md)
   * [Using an Email Address](getting-started/authentication/using-an-email-address.md)
   * [Using a Phone Number](getting-started/authentication/using-a-phone-number.md)
   * [Using a Web3 Wallet](getting-started/authentication/using-a-web3-wallet.md)
-* [Account Management](getting-started/account-management/README.md)
+* [Account Management](getting-started/account-management.md)
   * [Transfers (Sending/Receiving)](getting-started/account-management/transfers-sending-receiving.md)
   * [Funding Your Account (Deposits)](getting-started/account-management/funding-your-account-deposits.md)
   * [Requesting a Withdrawal](getting-started/account-management/requesting-a-withdrawal.md)
@@ -44,15 +47,23 @@
 
 ## 🌐 Blockchain
 
-* [Wallets](blockchain/wallets.md)
+* [Cryptocurrencies](blockchain/cryptocurrencies.md)
+* [Tokens](blockchain/tokens.md)
 * [Ledgers](blockchain/ledgers.md)
+* [Contracts](blockchain/contracts.md)
+* [Wallets](blockchain/wallets.md)
+* [Non-Fungible Token (NFT)](blockchain/non-fungible-token-nft.md)
 * [Decentralized Web Nodes (DWNs)](blockchain/decentralized-web-nodes-dwns.md)
 * [Game Finance (GameFi)](blockchain/game-finance-gamefi.md)
 
 ## ✨ Features
 
-* [Senpai](features/senpai.md)
 * [Escrows](features/escrows.md)
+* [Senpai](features/senpai.md)
+
+## ⚙ Development
+
+* [Application Programming Interface (API)](development/application-programming-interface-api.md)
 
 ## 📂 Public Assets
 
