@@ -16,6 +16,7 @@
   * [Governance](introduction/usdutcr/governance.md)
   * [Distribution](introduction/usdutcr/distribution.md)
   * [Utilization](introduction/usdutcr/utilization.md)
+  * [Buying and Selling](introduction/usdutcr/buying-and-selling.md)
   * [Exchanging](introduction/usdutcr/exchanging.md)
 * [Contact Us](introduction/contact-us.md)
 
