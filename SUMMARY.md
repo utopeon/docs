@@ -18,8 +18,8 @@
   * [Utilization](introduction/usdutcr/utilization.md)
   * [Buying and Selling](introduction/usdutcr/buying-and-selling.md)
   * [Exchanging](introduction/usdutcr/exchanging.md)
-* [Privacy and Security](introduction/privacy-and-security.md)
-* [Your Friends @ Utopeon](introduction/your-friends-utopeon.md)
+* [Privacy and Security](gameplay/software.md)
+* [Your Friends @ Utopeon](introduction/contact-us.md)
 
 ## 🚀 Getting Started
 
@@ -50,14 +50,14 @@
 ## 🌐 Decentralization
 
 * [Blockchains](decentralization/blockchains.md)
-* [Cryptocurrencies](decentralization/cryptocurrencies.md)
-* [Tokens](decentralization/tokens.md)
-* [Ledgers](decentralization/ledgers.md)
-* [Contracts](decentralization/contracts.md)
-* [Wallets](decentralization/wallets.md)
-* [Non-Fungible Token (NFT)](decentralization/non-fungible-token-nft.md)
-* [Decentralized Web Nodes (DWNs)](decentralization/decentralized-web-nodes-dwns.md)
-* [Game Finance (GameFi)](decentralization/game-finance-gamefi.md)
+* [Cryptocurrencies](blockchain/cryptocurrencies.md)
+* [Tokens](blockchain/tokens.md)
+* [Ledgers](blockchain/ledgers.md)
+* [Contracts](blockchain/contracts.md)
+* [Wallets](blockchain/wallets.md)
+* [Non-Fungible Token (NFT)](blockchain/non-fungible-token-nft.md)
+* [Decentralized Web Nodes (DWNs)](blockchain/decentralized-web-nodes-dwns.md)
+* [Game Finance (GameFi)](blockchain/game-finance-gamefi.md)
 
 ## ✨ Features
 

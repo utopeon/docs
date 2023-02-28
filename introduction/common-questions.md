@@ -28,7 +28,7 @@ Authentication is anonymous - minimal personal data is collected or stored. Web2
 
 Utopeon does not take advantage of fully decentralized architecture (yet) such as Decentralized Web Node (DWNs).&#x20;
 
-Transactions are off-chain. For now, they are centralized and exclusively made on the platform until there is a withdrawal. Tokens are transferred on-chain from private and secure cold wallets powered by [Ledgers](../decentralization/ledgers.md). This gives us the opportunity to earn more from fees and monitor/maintain the platform, observing for abusive behavior.
+Transactions are off-chain. For now, they are centralized and exclusively made on the platform until there is a withdrawal. Tokens are transferred on-chain from private and secure cold wallets powered by [Ledgers](../blockchain/ledgers.md). This gives us the opportunity to earn more from fees and monitor/maintain the platform, observing for abusive behavior.
 
 Long-term Utopeon will explore greater adoption of decentralized blockchain technologies.
 
@@ -48,7 +48,7 @@ Utopeon is powered by [Uteopeon Credits ($UTCR)](usdutcr/) exclusively. Players 
 
 Developers can build integrations to offer in-game purchases. They may introduce new items or adjust the price of existing items to maintain the health of the economy and themselves.
 
-Video game economies are the future of [game finance (GameFi)](../decentralization/game-finance-gamefi.md) and esports. It adds a layer of complexity and depth to the gameplay. It can also be an interesting case study for economists, as it provides a unique example of a virtual economy that operates under different rules than the real world.
+Video game economies are the future of [game finance (GameFi)](../blockchain/game-finance-gamefi.md) and esports. It adds a layer of complexity and depth to the gameplay. It can also be an interesting case study for economists, as it provides a unique example of a virtual economy that operates under different rules than the real world.
 
 </details>
 
@@ -103,7 +103,7 @@ Unfortunately, no. We do not support account deletion. Once an account is create
 
 The most we can do is disable your account. It will be hidden and no access or transactions will be permitted.
 
-If you'd like your account disabled, please [contact us](your-friends-utopeon.md).
+If you'd like your account disabled, please [contact us](contact-us.md).
 
 </details>
 
@@ -115,7 +115,7 @@ There are many ways to connect with our team or community for support.
 
 If you need technical support, please [open a discussion on our GitHub](https://github.com/orgs/utopeon/discussions).
 
-If you need general help, please [contact us](your-friends-utopeon.md).
+If you need general help, please [contact us](contact-us.md).
 
 </details>
 
