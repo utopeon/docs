@@ -15,12 +15,3 @@ We will make some of our work open source so other engineers can contribute to t
 We will also use discussions ([https://github.com/orgs/utopeon/discussions](https://github.com/orgs/utopeon/discussions)) so anyone can submit product issues, questions, ideas/suggestions and so much more.&#x20;
 
 :heart: Thank you so much for reading and contributing. Your support is greatly appreciated. A big warm welcome to all the new community members! :hugging:
-
-![❤️](https://discord.com/assets/0483f2b648dcc986d01385062052ae1c.svg)
-
-1
-
-Message #🚨announcements\
-
-
-Whether you're a developer or player,&#x20;
