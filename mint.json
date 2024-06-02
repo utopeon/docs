@@ -1,71 +1,162 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Utopeon",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://www.utopeon.com"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#E85D04",
+    "light": "#E85D04",
+    "dark": "#E85D04",
+    "background": {
+      "light": "#0e1047",
+      "dark": "#0e1047"
+    },
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#E85D04",
+      "to": "#E85D04"
     }
+  },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
   },
   "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Software Development Kits",
+      "url": "sdks"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Brand Kit",
+      "icon": "palette",
+      "url": "https://drive.google.com/drive/folders/1amtdOZR48uzljMfKdUyP3SucGHnYXC-3?usp=sharing"
+    },
+    {
+      "name": "Contact us",
+      "icon": "envelope",
+      "url": "https://docs.utopeon.com/introduction/contact-us"
+    },
+    {
+      "name": "Discussions",
+      "icon": "github",
+      "url": "https://github.com/orgs/utopeon/discussions"
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "icon": "discord",
+      "url": "https://discord.gg/SCUupswheQ"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "\uD83D\uDC4B Introduction",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction/motivation",
+        "introduction/mission",
+        "introduction/pricing",
+        "introduction/common-questions",
+        "introduction/feature-comparison",
+        {
+          "group": "$UTCR",
+          "pages": [
+            "utcr",
+            "utcr/tokenization",
+            "utcr/chain-contracts",
+            "utcr/governance",
+            "utcr/distribution",
+            "utcr/utilization",
+            "utcr/buying-and-selling",
+            "utcr/exchanging"
+          ]
+        },
+        "introduction/support-and-contribution",
+        "introduction/privacy-and-security"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "\uD83D\uDE80 Getting Started",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        {
+          "group": "Installation",
+          "pages": [
+            "getting-started/installation/windows"
+          ]
+        },
+        {
+          "group": "Authentication",
+          "pages": [
+            "getting-started/authentication/decentralized-identifiers",
+            "getting-started/authentication/emails",
+            "getting-started/authentication/phones",
+            "getting-started/authentication/web3-wallets"
+          ]
+        },
+        {
+          "group": "Account Management",
+          "pages": [
+            "getting-started/account-management/transfers",
+            "getting-started/account-management/deposits",
+            "getting-started/account-management/withdrawals"
+          ]
+        },
+        "getting-started/troubleshooting",
+        "getting-started/advanced"
+      ]
+    },
+    {
+      "group": "\uD83C\uDFAE Gameplay",
+      "pages": [
+        "gameplay/earning",
+        {
+          "group": "Automated eSports",
+          "pages": [
+            "gameplay/automated-esports/challenges",
+            "gameplay/automated-esports/competitions",
+            "gameplay/automated-esports/challenges"
+          ]
+        },
+        "gameplay/player-versus-player",
+        "gameplay/hacking-cheating",
+        "gameplay/data"
+      ]
+    },
+    {
+      "group": "\uD83C\uDF10 Decentralization",
+      "pages": [
+        "decentralization/blockchains",
+        "decentralization/cryptocurrencies",
+        "decentralization/tokens",
+        "decentralization/ledgers",
+        "decentralization/contracts",
+        "decentralization/wallets",
+        "decentralization/non-fungible-tokens",
+        "decentralization/decentralized-web-nodes",
+        "decentralization/game-finance"
+      ]
+    },
+    {
+      "group": "✨ Features",
+      "pages": [
+        "features/escrows",
+        "features/senpai"
+      ]
+    },
+    {
+      "group": "⚙ Engineering",
+      "pages": [
+        "engineering/apps-integrations",
+        "engineering/developers"
       ]
     },
     {
@@ -75,17 +166,17 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Software Development Kits",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "software-development-kits/introduction"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://twitter.com/utopeon",
+    "instagram": "https://www.instagram.com/utopeon",
+    "facebook": "https://www.facebook.com/utopeon",
+    "linkedin": "https://linkedin.com/company/utopeon",
+    "tiktok": "https://www.tiktok.com/@utopeon"
   }
 }

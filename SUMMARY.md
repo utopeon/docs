@@ -54,14 +54,14 @@
 ## 🌐 Decentralization
 
 * [Blockchains](decentralization/blockchains.md)
-* [Cryptocurrencies](blockchain/cryptocurrencies.md)
-* [Tokens](blockchain/tokens.md)
-* [Ledgers](blockchain/ledgers.md)
-* [Contracts](blockchain/contracts.md)
-* [Wallets](blockchain/wallets.md)
+* [Cryptocurrencies](decentralization/cryptocurrencies.md)
+* [Tokens](decentralization/tokens.md)
+* [Ledgers](decentralization/ledgers.md)
+* [Contracts](decentralization/contracts.md)
+* [Wallets](decentralization/wallets.md)
 * [Non-Fungible Tokens (NFTs)](decentralization/non-fungible-tokens-nfts.md)
-* [Decentralized Web Nodes (DWNs)](blockchain/decentralized-web-nodes-dwns.md)
-* [Game Finance (GameFi)](blockchain/game-finance-gamefi.md)
+* [Decentralized Web Nodes (DWNs)](decentralization/decentralized-web-nodes-dwns.md)
+* [Game Finance (GameFi)](decentralization/game-finance-gamefi.md)
 
 ## ✨ Features
 

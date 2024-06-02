@@ -4,7 +4,7 @@ description: Official company, product, industry and engineering documentation.
 
 # Utopeon Documentation
 
-This knowledge library is open source. Anyone can fork [the repository](https://github.com/utopeon/docs) and submit a pull request with new information or improvements to existing pages. Help us educate newcomers not only about Utopeon but also about [blockchain](decentralization/blockchains.md), [cryptocurrencies](blockchain/cryptocurrencies.md), [NFTs](decentralization/non-fungible-tokens-nfts.md), [Web3](blockchain/wallets.md), and [play-to-earn video gaming](introduction/welcome/mission.md#\_2e).&#x20;
+This knowledge library is open source. Anyone can fork [the repository](https://github.com/utopeon/docs) and submit a pull request with new information or improvements to existing pages. Help us educate newcomers not only about Utopeon but also about [blockchain](decentralization/blockchains.md), [cryptocurrencies](decentralization/cryptocurrencies.md), [NFTs](decentralization/non-fungible-tokens-nfts.md), [Web3](decentralization/wallets.md), and [play-to-earn video gaming](introduction/welcome/mission.md#\_2e).&#x20;
 
 The Utopeon GitHub is partially public: [https://github.com/utopeon](https://github.com/utopeon). Being open and transparent is important. Some work will be made open source so other engineers can contribute.&#x20;
 
